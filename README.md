@@ -30,12 +30,9 @@
 * MySQL
 * Git & GitHub
 
-## 📊 Estatísticas do GitHub
+## 📈 Atividade
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosMagn0&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMagn0&layout=compact&theme=tokyonight"/>
-</p>
+[![Carlos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosMagn0&theme=tokyo-night)](https://github.com/CarlosMagn0)
 
 ## 📌 Projetos em Destaque
 
