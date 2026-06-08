@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Carlos Magno 👋
 
-<!--
-**CarlosMagn0/CarlosMagn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-end e Mobile
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias:
+- HTML
+- CSS
+- JavaScript
+- Flutter
+- Dart
+- C#
+- Unity
+- MySQL
+
+📌 Projetos em destaque:
+- MG Transportes
+- MsTech
+- TaskBoard
+- DengCheck
+- Missão Dengue Zero
+
+🌐 Portfólio:
+https://portifolio-carlos-magno.vercel.app/
+
+📫 Contato:
+seuemail@email.com
