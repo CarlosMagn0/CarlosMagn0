@@ -30,6 +30,13 @@
 * MySQL
 * Git & GitHub
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosMagn0&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMagn0&layout=compact&theme=tokyonight"/>
+</p>
+
 ## 📌 Projetos em Destaque
 
 * 🚛 MG Transportes – Landing Page Institucional
