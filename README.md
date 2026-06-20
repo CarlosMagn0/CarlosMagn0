@@ -36,6 +36,7 @@
 
 ## 📌 Projetos em Destaque
 
+* 💡 Lumio – Plataforma Inteligente de Organização e Produtividade
 * 🚛 MG Transportes – Landing Page Institucional
 * 💻 MsTech – Site Profissional de Serviços de TI
 * 📋 TaskBoard – Sistema Interativo de Produtividade
